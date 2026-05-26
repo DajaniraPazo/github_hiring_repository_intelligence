@@ -1,0 +1,13 @@
+                      precision    recall  f1-score   support
+
+        intern_level       1.00      1.00      1.00        12
+        junior_level       1.00      1.00      1.00        15
+           mid_level       1.00      1.00      1.00        15
+        senior_level       1.00      1.00      1.00        11
+      lead_architect       1.00      1.00      1.00         7
+template_boilerplate       1.00      1.00      1.00         8
+           low_value       1.00      1.00      1.00         7
+
+            accuracy                           1.00        75
+           macro avg       1.00      1.00      1.00        75
+        weighted avg       1.00      1.00      1.00        75

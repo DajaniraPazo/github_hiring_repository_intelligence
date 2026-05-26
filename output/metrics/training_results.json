@@ -1,0 +1,6 @@
+{
+  "model_type": "sklearn",
+  "val_accuracy": 1.0,
+  "val_f1_macro": 1.0,
+  "output_dir": "C:\\Users\\ASUS VIVOBOOK\\OneDrive - Universidad de Lima\\UP DATA SCIENCE\\TAREA 4\\github_hiring_repository_intelligence\\models\\trained_models"
+}
