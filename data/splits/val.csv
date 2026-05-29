@@ -1,0 +1,751 @@
+repo_id,owner,name,full_name,description,main_language,stars_count,forks_count,open_issues_count,topics,topics_count,has_license,is_fork,is_template,repo_age_days,last_activity_days,watchers_count,network_count,contributors_count,readme_length,has_ci_cd,releases_count,closed_prs_count,weekly_commit_freq,has_tests,language_count,collected_at,category,source,stars_per_fork_ratio,commit_density,pr_velocity,issue_pr_ratio,readme_density,activity_score,complexity_score,maturity_score,log_stars_count,log_forks_count,log_contributors_count,log_closed_prs_count,log_readme_length,log_releases_count,log_watchers_count,log_weekly_commit_freq,label,text_summary,weak_label,label_confidence,label_reasoning,label_source,label_id
+10398,user_58619,app-48,user_58619/app-48,Enterprise API gateway with plugins,TypeScript,40390,16041,287,"['topic0', 'topic1', 'topic2', 'topic3', 'topic4', 'topic5']",6,1,0,0,4098,2,9133,15592,21,22138,1,21,5418,89.18,1,7,2026-05-29T05:31:09.626877,lead_architect,synthetic,2.51776586460541,0.1523328450301781,39.66325007567167,0.0529618010703081,5.402147387651989,4.329396343687002,3.7576894347142433,4.924202083225333,10.606362266854584,9.68296556192687,3.091042453358316,8.597666575566114,10.005096038124226,3.091042453358316,9.119758993744943,4.501807672992938,4,"Repository: app-48
+Description: Enterprise API gateway with plugins
+Language: TypeScript (7 languages total)
+Popularity: 40390 stars, 16041 forks
+Team: 21 contributors
+Activity: very high commit activity (89.2 commits/week), updated within the past week
+Infrastructure: has CI/CD workflows, includes automated tests, licensed
+Collaboration: 287 open issues, 5418 closed PRs
+Maturity: 21 releases, 22138-char README, 6 topics
+Age: long-running project (4098 days old)",lead_architect,0.92,synthetic ground truth,synthetic,4
+10383,user_94969,service-33,user_94969/service-33,Unified observability and monitoring platform,C++,39176,8247,422,"['topic0', 'topic1', 'topic2', 'topic3', 'topic4', 'topic5', 'topic6', 'topic7', 'topic8', 'topic9', 'topic10']",11,1,0,0,3465,11,4734,7077,293,9777,1,157,4026,83.9,1,4,2026-05-29T05:31:09.626163,lead_architect,synthetic,4.749757516973812,0.1694949491525354,34.85714255534942,0.104792649615098,2.8216450208306942,4.220222696406703,4.695453220566419,5.873720634665466,10.575845118888516,9.017726025696795,5.683579767338681,8.300776960851454,9.187890243138591,5.062595033026967,8.462737005620179,4.441474093317302,4,"Repository: service-33
+Description: Unified observability and monitoring platform
+Language: C++ (4 languages total)
+Popularity: 39176 stars, 8247 forks
+Team: 293 contributors
+Activity: very high commit activity (83.9 commits/week), updated within the past month
+Infrastructure: has CI/CD workflows, includes automated tests, licensed
+Collaboration: 422 open issues, 4026 closed PRs
+Maturity: 157 releases, 9777-char README, 11 topics
+Age: long-running project (3465 days old)",lead_architect,0.92,synthetic ground truth,synthetic,4
+10269,user_28884,awesome-cli-94,user_28884/awesome-cli-94,Data pipeline for processing CSV files,Ruby,399,43,18,"['topic0', 'topic1', 'topic2', 'topic3']",4,1,0,0,473,43,95,45,3,3750,1,14,87,7.98,1,3,2026-05-29T05:31:09.620571,mid_level,synthetic,9.068181818181818,0.1180972498378842,5.517970051714373,0.2045454545454545,7.928118376473322,2.392113495102355,2.3510740298669006,3.165892457735072,5.991464547107982,3.784189633918261,1.3862943611198906,4.477336814478207,8.229777750081887,2.70805020110221,4.564348191467836,2.194999882314108,2,"Repository: awesome-cli-94
+Description: Data pipeline for processing CSV files
+Language: Ruby (3 languages total)
+Popularity: 399 stars, 43 forks
+Team: 3 contributors
+Activity: regular commit activity (8.0 commits/week), updated within 6 months
+Infrastructure: has CI/CD workflows, includes automated tests, licensed
+Collaboration: 18 open issues, 87 closed PRs
+Maturity: 14 releases, 3750-char README, 4 topics
+Age: established project (473 days old)",mid_level,0.92,synthetic ground truth,synthetic,2
+10499,user_95936,untitled-lib-49,user_95936/untitled-lib-49,forked to try later,PHP,2,5,1,['topic0'],1,0,0,0,139,638,0,5,1,264,0,0,0,0.25,0,1,2026-05-29T05:31:09.631509,low_value,synthetic,0.3333333333333333,0.0125899274235288,0.0,1.0,1.89928056187568,0.3246911144466597,0.3930092528736083,1.161615279661847,1.0986122886681098,1.791759469228055,0.6931471805599453,0.0,5.579729825986222,0.0,0.0,0.2231435513142097,6,"Repository: untitled-lib-49
+Description: forked to try later
+Language: PHP (1 language total)
+Popularity: 2 stars, 5 forks
+Team: 1 contributor
+Activity: low or sporadic commits (0.2 commits/week), last updated 638 days ago (possibly inactive)
+Infrastructure: no CI/CD setup, no tests found, no license
+Collaboration: 1 open issue, 0 closed PRs
+Maturity: 0 releases, 264-char README, 1 topic
+Age: recently created (139 days old)",low_value,0.92,synthetic ground truth,synthetic,6
+10395,user_82016,open-cli-45,user_82016/open-cli-45,Core infrastructure platform used by thousands,C++,10318,3789,1112,"['topic0', 'topic1', 'topic2', 'topic3', 'topic4', 'topic5']",6,1,0,0,4339,0,1380,4498,234,7096,1,223,4554,103.3,1,7,2026-05-29T05:31:09.626725,lead_architect,synthetic,2.7224274406332456,0.1666513018744966,31.486517413091608,0.2441273326015367,1.635399861342383,4.321375651510236,4.424991713337438,5.95714767626475,9.241742135115716,8.240121298076472,5.459585514144159,8.423980809694058,8.867427438524983,5.41164605185504,7.2305631534092925,4.647271362006727,4,"Repository: open-cli-45
+Description: Core infrastructure platform used by thousands
+Language: C++ (7 languages total)
+Popularity: 10318 stars, 3789 forks
+Team: 234 contributors
+Activity: very high commit activity (103.3 commits/week), updated within the past week
+Infrastructure: has CI/CD workflows, includes automated tests, licensed
+Collaboration: 1112 open issues, 4554 closed PRs
+Maturity: 223 releases, 7096-char README, 6 topics
+Age: long-running project (4339 days old)",lead_architect,0.92,synthetic ground truth,synthetic,4
+10355,user_5847,open-api-5,user_5847/open-api-5,Cross-platform build system,C#,32625,6247,992,"['topic0', 'topic1', 'topic2', 'topic3', 'topic4', 'topic5', 'topic6', 'topic7', 'topic8']",9,1,0,0,3843,2,4577,5660,158,21195,1,108,4820,106.86,1,4,2026-05-29T05:31:09.624789,lead_architect,synthetic,5.221670934699104,0.1946448083886251,37.62685372656633,0.2057664384982369,5.515222481000463,4.348025292413697,4.44950119198868,5.702496711900048,10.392864795496248,8.740016691519521,5.068904202220232,8.480736654405622,9.961567763612653,4.691347882229144,8.429017500512511,4.680834089909081,4,"Repository: open-api-5
+Description: Cross-platform build system
+Language: C# (4 languages total)
+Popularity: 32625 stars, 6247 forks
+Team: 158 contributors
+Activity: very high commit activity (106.9 commits/week), updated within the past week
+Infrastructure: has CI/CD workflows, includes automated tests, licensed
+Collaboration: 992 open issues, 4820 closed PRs
+Maturity: 108 releases, 21195-char README, 9 topics
+Age: long-running project (3843 days old)",lead_architect,0.92,synthetic ground truth,synthetic,4
+10191,user_61482,awesome-lib-16,user_61482/awesome-lib-16,CLI tool for automating deployments,JavaScript,143,32,11,"['topic0', 'topic1', 'topic2', 'topic3', 'topic4']",5,0,0,0,644,99,14,37,10,1519,0,13,66,14.6,0,5,2026-05-29T05:31:09.615714,mid_level,synthetic,4.333333333333333,0.1586956504489603,3.074534018267049,0.1641791044776119,2.3586956485113424,2.46351548149862,1.9892950775570808,3.262073871359992,4.969813299576001,3.49650756146648,2.3978952727983707,4.204692619390966,7.326465613840322,2.6390573296152584,2.70805020110221,2.747270914255491,2,"Repository: awesome-lib-16
+Description: CLI tool for automating deployments
+Language: JavaScript (5 languages total)
+Popularity: 143 stars, 32 forks
+Team: 10 contributors
+Activity: regular commit activity (14.6 commits/week), updated within 6 months
+Infrastructure: no CI/CD setup, no tests found, no license
+Collaboration: 11 open issues, 66 closed PRs
+Maturity: 13 releases, 1519-char README, 5 topics
+Age: established project (644 days old)",mid_level,0.92,synthetic ground truth,synthetic,2
+10105,user_16906,simple-web-30,user_16906/simple-web-30,Basic e-commerce backend,Java,25,8,8,['topic0'],1,0,0,0,526,304,3,8,3,785,0,0,0,2.64,0,2,2026-05-29T05:31:09.611770,junior_level,synthetic,2.7777777777777777,0.0351330793803582,0.0,8.0,1.4923954344251038,0.7198136106261445,0.9981928978842692,1.6000136999882453,3.258096538021482,2.19722457733622,1.3862943611198906,0.0,6.666956792429207,0.0,1.3862943611198906,1.2919836816486494,1,"Repository: simple-web-30
+Description: Basic e-commerce backend
+Language: Java (2 languages total)
+Popularity: 25 stars, 8 forks
+Team: 3 contributors
+Activity: moderate commit activity (2.6 commits/week), last updated 304 days ago (possibly inactive)
+Infrastructure: no CI/CD setup, no tests found, no license
+Collaboration: 8 open issues, 0 closed PRs
+Maturity: 0 releases, 785-char README, 1 topic
+Age: established project (526 days old)",junior_level,0.92,synthetic ground truth,synthetic,1
+10360,user_51678,platform-system-10,user_51678/platform-system-10,Distributed database engine,C#,49353,15448,1115,"['topic0', 'topic1', 'topic2', 'topic3', 'topic4', 'topic5', 'topic6', 'topic7', 'topic8', 'topic9', 'topic10', 'topic11']",12,1,0,0,4896,7,14781,12558,77,21928,1,200,621,56.34,1,11,2026-05-29T05:31:09.625028,lead_architect,synthetic,3.1945757006926017,0.0805514704730677,3.805147035507678,1.792604501607717,4.478758169019861,3.5430208078758234,4.446027761936266,5.285701817172512,10.80677409527503,9.64529955531205,4.356708826689592,6.432940092739179,9.995565240737037,5.303304908059076,9.601165503344832,4.048998460455224,4,"Repository: platform-system-10
+Description: Distributed database engine
+Language: C# (11 languages total)
+Popularity: 49353 stars, 15448 forks
+Team: 77 contributors
+Activity: very high commit activity (56.3 commits/week), updated within the past week
+Infrastructure: has CI/CD workflows, includes automated tests, licensed
+Collaboration: 1115 open issues, 621 closed PRs
+Maturity: 200 releases, 21928-char README, 12 topics
+Age: long-running project (4896 days old)",lead_architect,0.92,synthetic ground truth,synthetic,4
+10146,user_91519,demo-web-71,user_91519/demo-web-71,Basic e-commerce backend,Java,23,12,2,"['topic0', 'topic1', 'topic2']",3,0,0,0,420,290,4,10,3,2129,0,3,0,3.03,0,2,2026-05-29T05:31:09.613648,junior_level,synthetic,1.7692307692307692,0.0504999991583333,0.0,2.0,5.069047606978458,0.7534699350841215,1.1901285105175454,1.832359029240428,3.1780538303479458,2.5649493574615367,1.3862943611198906,0.0,7.6638772587034705,1.3862943611198906,1.6094379124341005,1.3937663759585914,1,"Repository: demo-web-71
+Description: Basic e-commerce backend
+Language: Java (2 languages total)
+Popularity: 23 stars, 12 forks
+Team: 3 contributors
+Activity: moderate commit activity (3.0 commits/week), last updated 290 days ago (possibly inactive)
+Infrastructure: no CI/CD setup, no tests found, no license
+Collaboration: 2 open issues, 0 closed PRs
+Maturity: 3 releases, 2129-char README, 3 topics
+Age: established project (420 days old)",junior_level,0.92,synthetic ground truth,synthetic,1
+10201,user_65923,fast-system-26,user_65923/fast-system-26,Scalable REST API with authentication and tests,TypeScript,125,27,5,"['topic0', 'topic1']",2,1,0,0,1379,58,13,23,12,4499,0,14,10,9.23,1,3,2026-05-29T05:31:09.616385,mid_level,synthetic,4.464285714285714,0.0468527916403411,0.2175489437806611,0.4545454545454545,3.26250906217367,1.8040339602878803,2.214701250921012,3.2583941897757507,4.836281906951478,3.332204510175204,2.5649493574615367,2.3978952727983707,8.411832675758411,2.70805020110221,2.6390573296152584,2.325324579963535,2,"Repository: fast-system-26
+Description: Scalable REST API with authentication and tests
+Language: TypeScript (3 languages total)
+Popularity: 125 stars, 27 forks
+Team: 12 contributors
+Activity: regular commit activity (9.2 commits/week), updated within 6 months
+Infrastructure: no CI/CD setup, includes automated tests, licensed
+Collaboration: 5 open issues, 10 closed PRs
+Maturity: 14 releases, 4499-char README, 2 topics
+Age: long-running project (1379 days old)",mid_level,0.92,synthetic ground truth,synthetic,2
+10315,user_20709,production-service-40,user_20709/production-service-40,Database migration and management tool,PHP,1158,424,145,"['topic0', 'topic1', 'topic2', 'topic3', 'topic4']",5,1,0,0,2300,33,257,389,29,15132,1,43,540,10.56,1,6,2026-05-29T05:31:09.622874,senior_level,synthetic,2.724705882352941,0.0321391303369678,7.043478168998111,0.2680221811460259,6.579130431922118,3.014933183095441,3.228990359171229,4.56404094597556,7.055312843339752,6.052089168924417,3.4011973816621555,6.293419278846481,9.624633068687029,3.784189633918261,5.552959584921617,2.447550863244232,3,"Repository: production-service-40
+Description: Database migration and management tool
+Language: PHP (6 languages total)
+Popularity: 1158 stars, 424 forks
+Team: 29 contributors
+Activity: regular commit activity (10.6 commits/week), updated within 6 months
+Infrastructure: has CI/CD workflows, includes automated tests, licensed
+Collaboration: 145 open issues, 540 closed PRs
+Maturity: 43 releases, 15132-char README, 5 topics
+Age: long-running project (2300 days old)",senior_level,0.92,synthetic ground truth,synthetic,3
+10256,user_11589,fast-bot-81,user_11589/fast-bot-81,Full-stack web application with CI/CD,JavaScript,576,161,56,"['topic0', 'topic1']",2,1,0,0,560,51,154,139,5,5460,1,13,83,13.05,1,1,2026-05-29T05:31:09.619639,mid_level,synthetic,3.555555555555556,0.1631249979609375,4.446428333227053,0.6666666666666666,9.749999982589284,2.5106605209287265,2.5153669200509223,3.277858874103268,6.3578422665081,5.087596335232384,1.791759469228055,4.430816798843313,8.605387202152153,2.6390573296152584,5.043425116919247,2.642622395779755,2,"Repository: fast-bot-81
+Description: Full-stack web application with CI/CD
+Language: JavaScript (1 language total)
+Popularity: 576 stars, 161 forks
+Team: 5 contributors
+Activity: regular commit activity (13.1 commits/week), updated within 6 months
+Infrastructure: has CI/CD workflows, includes automated tests, licensed
+Collaboration: 56 open issues, 83 closed PRs
+Maturity: 13 releases, 5460-char README, 2 topics
+Age: established project (560 days old)",mid_level,0.92,synthetic ground truth,synthetic,2
+10125,user_62644,demo-service-50,user_62644/demo-service-50,REST API built with Flask,JavaScript,29,5,8,['topic0'],1,0,0,0,451,55,8,5,2,1998,0,3,12,3.12,0,1,2026-05-29T05:31:09.612677,junior_level,synthetic,4.833333333333333,0.0484257198692238,0.7982261109827421,0.6153846153846154,4.430155200820055,1.5819776570272706,1.1628367026674422,2.287638251849759,3.4011973816621555,1.791759469228055,1.0986122886681098,2.5649493574615367,7.6004023345004,1.3862943611198906,2.19722457733622,1.415853163361435,1,"Repository: demo-service-50
+Description: REST API built with Flask
+Language: JavaScript (1 language total)
+Popularity: 29 stars, 5 forks
+Team: 2 contributors
+Activity: moderate commit activity (3.1 commits/week), updated within 6 months
+Infrastructure: no CI/CD setup, no tests found, no license
+Collaboration: 8 open issues, 12 closed PRs
+Maturity: 3 releases, 1998-char README, 1 topic
+Age: established project (451 days old)",junior_level,0.92,synthetic ground truth,synthetic,1
+10437,user_27485,starter-bot-37,user_27485/starter-bot-37,Node.js microservice template,Java,85,25,21,"['topic0', 'topic1', 'topic2', 'topic3', 'topic4', 'topic5', 'topic6', 'topic7']",8,1,0,0,1502,460,21,22,4,1167,1,4,4,0.26,1,3,2026-05-29T05:31:09.628729,template_boilerplate,synthetic,3.269230769230769,0.0012117177040732,0.0798934737704366,4.2,0.7769640474187989,0.8496007874551434,1.9346446242243407,2.65917832103276,4.454347296253507,3.258096538021482,1.6094379124341005,1.6094379124341005,7.0630481633881725,1.6094379124341005,3.091042453358316,0.2311117209633866,5,"Repository: starter-bot-37
+Description: Node.js microservice template
+Language: Java (3 languages total)
+Popularity: 85 stars, 25 forks
+Team: 4 contributors
+Activity: low or sporadic commits (0.3 commits/week), last updated 460 days ago (possibly inactive)
+Infrastructure: has CI/CD workflows, includes automated tests, licensed
+Collaboration: 21 open issues, 4 closed PRs
+Maturity: 4 releases, 1167-char README, 8 topics
+Age: long-running project (1502 days old)",template_boilerplate,0.92,synthetic ground truth,synthetic,5
+10288,user_74233,advanced-lib-13,user_74233/advanced-lib-13,Database migration and management tool,Ruby,3088,889,243,"['topic0', 'topic1', 'topic2', 'topic3', 'topic4', 'topic5', 'topic6', 'topic7', 'topic8', 'topic9']",10,1,0,0,1329,3,582,726,10,17534,1,25,172,17.4,0,6,2026-05-29T05:31:09.621553,senior_level,synthetic,3.4696629213483146,0.0916478550477539,3.882618422514257,1.4046242774566473,13.193378470132895,2.8190237814127457,2.895308837486532,3.870338288946605,8.035602692918582,6.7912214627261855,2.3978952727983707,5.153291594497779,9.77195416257428,3.258096538021482,6.368187186350492,2.91235066461494,3,"Repository: advanced-lib-13
+Description: Database migration and management tool
+Language: Ruby (6 languages total)
+Popularity: 3088 stars, 889 forks
+Team: 10 contributors
+Activity: regular commit activity (17.4 commits/week), updated within the past week
+Infrastructure: has CI/CD workflows, no tests found, licensed
+Collaboration: 243 open issues, 172 closed PRs
+Maturity: 25 releases, 17534-char README, 10 topics
+Age: long-running project (1329 days old)",senior_level,0.92,synthetic ground truth,synthetic,3
+10140,user_60087,basic-api-65,user_60087/basic-api-65,Discord bot for my server,Go,12,5,9,"['topic0', 'topic1', 'topic2']",3,1,0,0,78,87,1,5,2,1422,0,0,2,5.19,0,1,2026-05-29T05:31:09.613365,junior_level,synthetic,2.0,0.4657691889694318,0.7692304733728947,3.0,18.230768997041423,1.2570662192983475,0.7876429436593348,1.5182651003940535,2.5649493574615367,1.791759469228055,1.0986122886681098,1.0986122886681098,7.260522598089852,0.0,0.6931471805599453,1.8229350866965048,1,"Repository: basic-api-65
+Description: Discord bot for my server
+Language: Go (1 language total)
+Popularity: 12 stars, 5 forks
+Team: 2 contributors
+Activity: regular commit activity (5.2 commits/week), updated within 6 months
+Infrastructure: no CI/CD setup, no tests found, licensed
+Collaboration: 9 open issues, 2 closed PRs
+Maturity: 0 releases, 1422-char README, 3 topics
+Age: recently created (78 days old)",junior_level,0.92,synthetic ground truth,synthetic,1
+10093,user_26144,mini-web-18,user_26144/mini-web-18,Task management app,TypeScript,11,5,9,"['topic0', 'topic1', 'topic2', 'topic3']",4,0,0,0,385,186,2,5,1,799,0,2,2,5.29,0,1,2026-05-29T05:31:09.611246,junior_level,synthetic,1.8333333333333333,0.0961818164330578,0.1558441437004563,3.0,2.0753246699342216,1.239800435907783,0.8350599683978028,1.8038991845001968,2.4849066497880004,1.791759469228055,0.6931471805599453,1.0986122886681098,6.684611727667927,1.0986122886681098,1.0986122886681098,1.8389610707123487,1,"Repository: mini-web-18
+Description: Task management app
+Language: TypeScript (1 language total)
+Popularity: 11 stars, 5 forks
+Team: 1 contributor
+Activity: regular commit activity (5.3 commits/week), last updated 186 days ago (possibly inactive)
+Infrastructure: no CI/CD setup, no tests found, no license
+Collaboration: 9 open issues, 2 closed PRs
+Maturity: 2 releases, 799-char README, 4 topics
+Age: established project (385 days old)",junior_level,0.92,synthetic ground truth,synthetic,1
+10148,user_41135,basic-system-73,user_41135/basic-system-73,Blog platform clone,Java,24,6,10,"['topic0', 'topic1', 'topic2', 'topic3']",4,0,0,0,537,310,5,5,3,57,0,3,7,2.93,0,1,2026-05-29T05:31:09.613735,junior_level,synthetic,3.4285714285714284,0.038193668030995,0.3910614306669592,1.25,0.1061452511989846,1.3653050037577108,1.1982929094215964,2.297292482872275,3.218875824868201,1.9459101490553128,1.3862943611198906,2.079441541679836,4.060443010546419,1.3862943611198906,1.791759469228055,1.3686394258811698,1,"Repository: basic-system-73
+Description: Blog platform clone
+Language: Java (1 language total)
+Popularity: 24 stars, 6 forks
+Team: 3 contributors
+Activity: moderate commit activity (2.9 commits/week), last updated 310 days ago (possibly inactive)
+Infrastructure: no CI/CD setup, no tests found, no license
+Collaboration: 10 open issues, 7 closed PRs
+Maturity: 3 releases, 57-char README, 4 topics
+Age: established project (537 days old)",junior_level,0.92,synthetic ground truth,synthetic,1
+10382,user_81209,platform-web-32,user_81209/platform-web-32,Open-source orchestration framework,TypeScript,56711,15787,444,"['topic0', 'topic1', 'topic2', 'topic3', 'topic4', 'topic5', 'topic6', 'topic7', 'topic8', 'topic9']",10,1,0,0,1823,5,10646,12874,218,26229,1,110,2573,49.8,1,4,2026-05-29T05:31:09.626116,lead_architect,synthetic,3.592031922979478,0.1912232576310681,42.34229222695076,0.1724941724941724,14.38782226308951,3.93321899562037,4.642845684157947,5.511574684474661,10.945741107534854,9.667005436782738,5.389071729816501,7.853216388156072,10.17465907286092,4.709530201312334,9.273033441314606,3.927896354584436,4,"Repository: platform-web-32
+Description: Open-source orchestration framework
+Language: TypeScript (4 languages total)
+Popularity: 56711 stars, 15787 forks
+Team: 218 contributors
+Activity: very high commit activity (49.8 commits/week), updated within the past week
+Infrastructure: has CI/CD workflows, includes automated tests, licensed
+Collaboration: 444 open issues, 2573 closed PRs
+Maturity: 110 releases, 26229-char README, 10 topics
+Age: long-running project (1823 days old)",lead_architect,0.92,synthetic ground truth,synthetic,4
+10115,user_92163,demo-system-40,user_92163/demo-system-40,REST API built with Flask,PHP,7,2,8,"['topic0', 'topic1', 'topic2']",3,0,0,0,84,25,1,1,1,682,1,3,6,1.46,0,1,2026-05-29T05:31:09.612211,junior_level,synthetic,2.333333333333333,0.1216666565277786,2.142856377551294,1.1428571428571428,8.119047522392291,1.2482473136909569,0.9971192576439372,1.7282579484730904,2.079441541679836,1.0986122886681098,0.6931471805599453,1.9459101490553128,6.52649485957079,1.3862943611198906,0.6931471805599453,0.9001613499442714,1,"Repository: demo-system-40
+Description: REST API built with Flask
+Language: PHP (1 language total)
+Popularity: 7 stars, 2 forks
+Team: 1 contributor
+Activity: moderate commit activity (1.5 commits/week), updated within the past month
+Infrastructure: has CI/CD workflows, no tests found, no license
+Collaboration: 8 open issues, 6 closed PRs
+Maturity: 3 releases, 682-char README, 3 topics
+Age: recently created (84 days old)",junior_level,0.92,synthetic ground truth,synthetic,1
+10014,user_96568,homework-tool-14,user_96568/homework-tool-14,Todo list app practice,Ruby,2,5,3,['topic0'],1,0,0,0,110,283,0,4,2,419,0,0,2,2.67,0,1,2026-05-29T05:31:09.606408,intern_level,synthetic,0.3333333333333333,0.1699090800966949,0.5454543966942554,1.0,3.8090908744628105,1.056541965599418,0.4943755299006494,1.4362815701631164,1.0986122886681098,1.791759469228055,1.0986122886681098,1.0986122886681098,6.040254711277414,0.0,0.0,1.3001916620664788,0,"Repository: homework-tool-14
+Description: Todo list app practice
+Language: Ruby (1 language total)
+Popularity: 2 stars, 5 forks
+Team: 2 contributors
+Activity: moderate commit activity (2.7 commits/week), last updated 283 days ago (possibly inactive)
+Infrastructure: no CI/CD setup, no tests found, no license
+Collaboration: 3 open issues, 2 closed PRs
+Maturity: 0 releases, 419-char README, 1 topic
+Age: recently created (110 days old)",intern_level,0.92,synthetic ground truth,synthetic,0
+10139,user_36179,demo-system-64,user_36179/demo-system-64,Blog platform clone,PHP,26,12,9,"['topic0', 'topic1']",2,1,0,0,602,151,2,13,3,549,0,0,4,4.57,0,2,2026-05-29T05:31:09.613318,junior_level,synthetic,2.0,0.0531395342658193,0.1993355382390927,1.8,0.9119601313754816,1.3643821084181194,1.0057409634808383,2.09884461211223,3.295836866004329,2.5649493574615367,1.3862943611198906,1.6094379124341005,6.309918278226516,0.0,1.0986122886681098,1.717395053939193,1,"Repository: demo-system-64
+Description: Blog platform clone
+Language: PHP (2 languages total)
+Popularity: 26 stars, 12 forks
+Team: 3 contributors
+Activity: moderate commit activity (4.6 commits/week), updated within 6 months
+Infrastructure: no CI/CD setup, no tests found, licensed
+Collaboration: 9 open issues, 4 closed PRs
+Maturity: 0 releases, 549-char README, 2 topics
+Age: established project (602 days old)",junior_level,0.92,synthetic ground truth,synthetic,1
+10260,user_13999,cool-cli-85,user_13999/cool-cli-85,CLI tool for automating deployments,C++,92,16,32,"['topic0', 'topic1', 'topic2', 'topic3', 'topic4']",5,1,0,0,905,39,16,18,9,5105,1,11,10,7.7,1,1,2026-05-29T05:31:09.620109,mid_level,synthetic,5.411764705882353,0.059558010589054,0.3314917017185071,2.909090909090909,5.640883971667532,1.7596698373637594,2.2549021693473628,3.064014518974382,4.532599493153256,2.833213344056216,2.302585092994046,2.3978952727983707,8.53817159780143,2.4849066497880004,2.833213344056216,2.163323025660538,2,"Repository: cool-cli-85
+Description: CLI tool for automating deployments
+Language: C++ (1 language total)
+Popularity: 92 stars, 16 forks
+Team: 9 contributors
+Activity: regular commit activity (7.7 commits/week), updated within 6 months
+Infrastructure: has CI/CD workflows, includes automated tests, licensed
+Collaboration: 32 open issues, 10 closed PRs
+Maturity: 11 releases, 5105-char README, 5 topics
+Age: long-running project (905 days old)",mid_level,0.92,synthetic ground truth,synthetic,2
+10460,user_21078,test-tool-10,user_21078/test-tool-10,WIP project (abandoned),C#,4,3,2,['topic0'],1,0,1,0,1361,371,0,3,1,124,0,0,1,0.08,1,1,2026-05-29T05:31:09.629785,low_value,synthetic,1.0,0.00041146215806,0.0220426152378556,1.0,0.0911094782578181,0.5483122881364698,0.6951743776268065,1.755258128593867,1.6094379124341005,1.3862943611198906,0.6931471805599453,0.6931471805599453,4.8283137373023015,0.0,0.0,0.0769610411361283,6,"Repository: test-tool-10 (forked repository)
+Description: WIP project (abandoned)
+Language: C# (1 language total)
+Popularity: 4 stars, 3 forks
+Team: 1 contributor
+Activity: low or sporadic commits (0.1 commits/week), last updated 371 days ago (possibly inactive)
+Infrastructure: no CI/CD setup, includes automated tests, no license
+Collaboration: 2 open issues, 1 closed PR
+Maturity: 0 releases, 124-char README, 1 topic
+Age: long-running project (1361 days old)",low_value,0.92,synthetic ground truth,synthetic,6
+10403,user_7632,boilerplate-tool-3,user_7632/boilerplate-tool-3,Node.js microservice template,JavaScript,44,13,4,"['topic0', 'topic1', 'topic2']",3,1,0,1,1770,486,7,15,3,1385,0,5,13,1.15,0,3,2026-05-29T05:31:09.627115,template_boilerplate,synthetic,3.142857142857143,0.0045480225808835,0.2203389793162884,0.2857142857142857,0.7824858752641323,1.3129963475130708,1.3766700086182448,2.878596877605202,3.80666248977032,2.6390573296152584,1.3862943611198906,2.6390573296152584,7.234177179749849,1.791759469228055,2.079441541679836,0.7654678421395714,5,"Repository: boilerplate-tool-3 (template repository)
+Description: Node.js microservice template
+Language: JavaScript (3 languages total)
+Popularity: 44 stars, 13 forks
+Team: 3 contributors
+Activity: moderate commit activity (1.1 commits/week), last updated 486 days ago (possibly inactive)
+Infrastructure: no CI/CD setup, no tests found, licensed
+Collaboration: 4 open issues, 13 closed PRs
+Maturity: 5 releases, 1385-char README, 3 topics
+Age: long-running project (1770 days old)",template_boilerplate,0.92,synthetic ground truth,synthetic,5
+10194,user_25983,cool-tool-19,user_25983/cool-tool-19,Data pipeline for processing CSV files,C++,421,115,42,"['topic0', 'topic1', 'topic2', 'topic3', 'topic4', 'topic5', 'topic6']",7,1,0,0,648,30,54,92,2,2523,1,23,97,17.21,1,1,2026-05-29T05:31:09.615918,mid_level,synthetic,3.6293103448275854,0.1859104918188681,4.490740532836086,0.4285714285714285,3.893518512510002,2.639392548512324,2.360362209526422,3.2723438773115494,6.045005314036012,4.7535901911063645,1.0986122886681098,4.584967478670572,7.833600223661103,3.1780538303479458,4.007333185232471,2.901970893739517,2,"Repository: cool-tool-19
+Description: Data pipeline for processing CSV files
+Language: C++ (1 language total)
+Popularity: 421 stars, 115 forks
+Team: 2 contributors
+Activity: regular commit activity (17.2 commits/week), updated within the past month
+Infrastructure: has CI/CD workflows, includes automated tests, licensed
+Collaboration: 42 open issues, 97 closed PRs
+Maturity: 23 releases, 2523-char README, 7 topics
+Age: established project (648 days old)",mid_level,0.92,synthetic ground truth,synthetic,2
+10042,user_32850,homework-cli-42,user_32850/homework-cli-42,Beginner machine learning experiments,C#,5,0,1,[],0,0,0,0,224,102,1,0,1,77,0,1,1,1.44,0,2,2026-05-29T05:31:09.607700,intern_level,synthetic,5.0,0.04499999859375,0.1339285534917116,0.5,0.3437499984654018,0.8528010910431288,0.6356107660695891,1.5337657478048483,1.791759469228055,0.0,0.6931471805599453,0.6931471805599453,4.356708826689592,0.6931471805599453,0.6931471805599453,0.8919980393051105,0,"Repository: homework-cli-42
+Description: Beginner machine learning experiments
+Language: C# (2 languages total)
+Popularity: 5 stars, 0 forks
+Team: 1 contributor
+Activity: moderate commit activity (1.4 commits/week), updated within 6 months
+Infrastructure: no CI/CD setup, no tests found, no license
+Collaboration: 1 open issue, 1 closed PR
+Maturity: 1 release, 77-char README, 0 topics
+Age: established project (224 days old)",intern_level,0.92,synthetic ground truth,synthetic,0
+10296,user_83998,scalable-api-21,user_83998/scalable-api-21,High-performance message queue processor,Ruby,465,76,192,"['topic0', 'topic1', 'topic2', 'topic3', 'topic4', 'topic5', 'topic6', 'topic7']",8,1,0,0,2779,25,53,65,26,3246,1,37,547,23.76,1,2,2026-05-29T05:31:09.621921,senior_level,synthetic,6.038961038961039,0.0598488663479877,5.905001735462378,0.3503649635036496,1.1680460593134057,3.2490772844204048,2.99843426728517,4.548772747172899,6.144185634125646,4.343805421853684,3.295836866004329,6.306275286948016,8.085486772102845,3.6375861597263857,3.9889840465642745,3.209229447816396,3,"Repository: scalable-api-21
+Description: High-performance message queue processor
+Language: Ruby (2 languages total)
+Popularity: 465 stars, 76 forks
+Team: 26 contributors
+Activity: very high commit activity (23.8 commits/week), updated within the past month
+Infrastructure: has CI/CD workflows, includes automated tests, licensed
+Collaboration: 192 open issues, 547 closed PRs
+Maturity: 37 releases, 3246-char README, 8 topics
+Age: long-running project (2779 days old)",senior_level,0.92,synthetic ground truth,synthetic,3
+10332,user_73684,enterprise-bot-57,user_73684/enterprise-bot-57,High-performance message queue processor,Rust,292,105,48,"['topic0', 'topic1', 'topic2', 'topic3', 'topic4']",5,1,0,0,2151,11,30,121,24,5068,1,23,523,31.57,0,3,2026-05-29T05:31:09.623675,senior_level,synthetic,2.754716981132076,0.1027382609394849,7.294281627694817,0.0916030534351145,2.3561134345159864,3.321012371238832,2.617461552572656,4.377458643407183,5.680172609017068,4.663439094112067,3.218875824868201,6.261491684321042,8.53089883847235,3.1780538303479458,3.4339872044851463,3.4833916192881422,3,"Repository: enterprise-bot-57
+Description: High-performance message queue processor
+Language: Rust (3 languages total)
+Popularity: 292 stars, 105 forks
+Team: 24 contributors
+Activity: very high commit activity (31.6 commits/week), updated within the past month
+Infrastructure: has CI/CD workflows, no tests found, licensed
+Collaboration: 48 open issues, 523 closed PRs
+Maturity: 23 releases, 5068-char README, 5 topics
+Age: long-running project (2151 days old)",senior_level,0.92,synthetic ground truth,synthetic,3
+10463,user_93244,temp-bot-13,user_93244/temp-bot-13,test123,Ruby,4,2,4,['topic0'],1,0,1,0,3134,1552,1,1,1,168,0,1,2,0.6,0,1,2026-05-29T05:31:09.629921,low_value,synthetic,1.3333333333333333,0.0013401403926672,0.019144862611887,1.3333333333333333,0.0536056158093153,0.5245424119404858,0.5991464547107982,2.1417155795990017,1.6094379124341005,1.0986122886681098,0.6931471805599453,1.0986122886681098,5.1298987149230735,0.6931471805599453,0.6931471805599453,0.4700036292457356,6,"Repository: temp-bot-13 (forked repository)
+Description: test123
+Language: Ruby (1 language total)
+Popularity: 4 stars, 2 forks
+Team: 1 contributor
+Activity: low or sporadic commits (0.6 commits/week), last updated 1552 days ago (possibly inactive)
+Infrastructure: no CI/CD setup, no tests found, no license
+Collaboration: 4 open issues, 2 closed PRs
+Maturity: 1 release, 168-char README, 1 topic
+Age: long-running project (3134 days old)",low_value,0.92,synthetic ground truth,synthetic,6
+10450,user_96829,untitled-project-0,user_96829/untitled-project-0,WIP project (abandoned),TypeScript,2,0,3,"['topic0', 'topic1']",2,0,1,0,2606,292,0,0,1,149,0,1,1,0.91,0,1,2026-05-29T05:31:09.629324,low_value,synthetic,2.0,0.0024443591645777,0.0115118954929559,1.5,0.0571757482512756,0.7369692182013756,0.4969813299576001,2.023736750150665,1.0986122886681098,0.0,0.6931471805599453,0.6931471805599453,5.010635294096256,0.6931471805599453,0.0,0.6471032420585384,6,"Repository: untitled-project-0 (forked repository)
+Description: WIP project (abandoned)
+Language: TypeScript (1 language total)
+Popularity: 2 stars, 0 forks
+Team: 1 contributor
+Activity: low or sporadic commits (0.9 commits/week), last updated 292 days ago (possibly inactive)
+Infrastructure: no CI/CD setup, no tests found, no license
+Collaboration: 3 open issues, 1 closed PR
+Maturity: 1 release, 149-char README, 2 topics
+Age: long-running project (2606 days old)",low_value,0.92,synthetic ground truth,synthetic,6
+10422,user_41327,template-system-22,user_41327/template-system-22,Starter template for React + TypeScript,PHP,108,9,5,"['topic0', 'topic1', 'topic2', 'topic3']",4,1,1,0,1103,593,12,7,4,5438,1,2,6,2.13,0,2,2026-05-29T05:31:09.628011,template_boilerplate,synthetic,10.8,0.0135176789713293,0.1631912920256221,0.7142857142857143,4.930190385376074,1.1938644399506628,1.7054208978545702,2.562603011020618,4.691347882229144,2.302585092994046,1.6094379124341005,1.9459101490553128,8.60135049942296,1.0986122886681098,2.5649493574615367,1.1410330045520618,5,"Repository: template-system-22 (forked repository)
+Description: Starter template for React + TypeScript
+Language: PHP (2 languages total)
+Popularity: 108 stars, 9 forks
+Team: 4 contributors
+Activity: moderate commit activity (2.1 commits/week), last updated 593 days ago (possibly inactive)
+Infrastructure: has CI/CD workflows, no tests found, licensed
+Collaboration: 5 open issues, 6 closed PRs
+Maturity: 2 releases, 5438-char README, 4 topics
+Age: long-running project (1103 days old)",template_boilerplate,0.92,synthetic ground truth,synthetic,5
+10461,user_93004,temp-project-11,user_93004/temp-project-11,forked to try later,C++,2,3,4,[],0,0,0,0,2754,1379,0,3,1,252,0,0,0,0.66,0,1,2026-05-29T05:31:09.629831,low_value,synthetic,0.5,0.00167755990859,0.0,4.0,0.0915032679406306,0.2445759384585846,0.3930092528736083,1.7575213394573894,1.0986122886681098,1.3862943611198906,0.6931471805599453,0.0,5.53338948872752,0.0,0.0,0.5068176023684519,6,"Repository: temp-project-11
+Description: forked to try later
+Language: C++ (1 language total)
+Popularity: 2 stars, 3 forks
+Team: 1 contributor
+Activity: low or sporadic commits (0.7 commits/week), last updated 1379 days ago (possibly inactive)
+Infrastructure: no CI/CD setup, no tests found, no license
+Collaboration: 4 open issues, 0 closed PRs
+Maturity: 0 releases, 252-char README, 0 topics
+Age: long-running project (2754 days old)",low_value,0.92,synthetic ground truth,synthetic,6
+10462,user_33435,old-web-12,user_33435/old-web-12,test,Java,0,2,0,"['topic0', 'topic1']",2,0,0,0,2601,1418,0,1,1,319,0,1,1,0.41,0,1,2026-05-29T05:31:09.629876,low_value,synthetic,0.0,0.0011034217578915,0.011534025241822,0.0,0.1226451364388138,0.3948560710591426,0.2772588722239781,2.0233527991784546,0.0,1.0986122886681098,0.6931471805599453,0.6931471805599453,5.768320995793772,0.6931471805599453,0.0,0.3435897043900769,6,"Repository: old-web-12
+Description: test
+Language: Java (1 language total)
+Popularity: 0 stars, 2 forks
+Team: 1 contributor
+Activity: low or sporadic commits (0.4 commits/week), last updated 1418 days ago (possibly inactive)
+Infrastructure: no CI/CD setup, no tests found, no license
+Collaboration: 0 open issues, 1 closed PR
+Maturity: 1 release, 319-char README, 2 topics
+Age: long-running project (2601 days old)",low_value,0.92,synthetic ground truth,synthetic,6
+10270,user_46890,fast-lib-95,user_46890/fast-lib-95,Full-stack web application with CI/CD,JavaScript,131,48,54,"['topic0', 'topic1', 'topic2', 'topic3', 'topic4', 'topic5', 'topic6']",7,1,0,0,1277,12,18,43,2,5695,1,4,74,16.49,1,2,2026-05-29T05:31:09.620625,mid_level,synthetic,2.673469387755102,0.0903915421826618,1.7384494501538892,0.72,4.459671100658049,2.551059635485765,1.8926291435494165,3.0406486043486054,4.882801922586371,3.8918202981106265,1.0986122886681098,4.31748811353631,8.647519453091812,1.6094379124341005,2.9444389791664403,2.8616292890305104,2,"Repository: fast-lib-95
+Description: Full-stack web application with CI/CD
+Language: JavaScript (2 languages total)
+Popularity: 131 stars, 48 forks
+Team: 2 contributors
+Activity: regular commit activity (16.5 commits/week), updated within the past month
+Infrastructure: has CI/CD workflows, includes automated tests, licensed
+Collaboration: 54 open issues, 74 closed PRs
+Maturity: 4 releases, 5695-char README, 7 topics
+Age: long-running project (1277 days old)",mid_level,0.92,synthetic ground truth,synthetic,2
+10160,user_76631,demo-bot-85,user_76631/demo-bot-85,REST API built with Flask,JavaScript,21,7,12,"['topic0', 'topic1', 'topic2']",3,0,0,0,484,361,4,8,2,1896,0,3,2,3.75,0,2,2026-05-29T05:31:09.614281,junior_level,synthetic,2.625,0.0542355364056844,0.1239669344648594,4.0,3.917355363807117,1.116536548045613,1.1008057170066743,2.0084641803121244,3.091042453358316,2.079441541679836,1.0986122886681098,1.0986122886681098,7.5480289699350145,1.3862943611198906,1.6094379124341005,1.55814461804655,1,"Repository: demo-bot-85
+Description: REST API built with Flask
+Language: JavaScript (2 languages total)
+Popularity: 21 stars, 7 forks
+Team: 2 contributors
+Activity: moderate commit activity (3.8 commits/week), last updated 361 days ago (possibly inactive)
+Infrastructure: no CI/CD setup, no tests found, no license
+Collaboration: 12 open issues, 2 closed PRs
+Maturity: 3 releases, 1896-char README, 3 topics
+Age: established project (484 days old)",junior_level,0.92,synthetic ground truth,synthetic,1
+10278,user_79148,production-project-3,user_79148/production-project-3,High-performance message queue processor,PHP,2002,462,62,"['topic0', 'topic1', 'topic2', 'topic3', 'topic4', 'topic5', 'topic6', 'topic7', 'topic8', 'topic9', 'topic10', 'topic11']",12,1,0,0,2192,20,380,431,16,6971,1,26,66,20.26,1,6,2026-05-29T05:31:09.621070,senior_level,synthetic,4.323974082073434,0.0646989049028775,0.9032846591703744,0.9253731343283582,3.180200728476186,2.573996688884296,3.123159133047867,3.8970143827766894,7.602401335665818,6.137727054086234,2.833213344056216,4.204692619390966,8.849657406639912,3.295836866004329,5.942799375126701,3.056827372913802,3,"Repository: production-project-3
+Description: High-performance message queue processor
+Language: PHP (6 languages total)
+Popularity: 2002 stars, 462 forks
+Team: 16 contributors
+Activity: very high commit activity (20.3 commits/week), updated within the past month
+Infrastructure: has CI/CD workflows, includes automated tests, licensed
+Collaboration: 62 open issues, 66 closed PRs
+Maturity: 26 releases, 6971-char README, 12 topics
+Age: long-running project (2192 days old)",senior_level,0.92,synthetic ground truth,synthetic,3
+10057,user_9907,test-api-57,user_9907/test-api-57,Todo list app practice,PHP,5,1,1,['topic0'],1,0,0,0,319,30,1,0,2,181,0,1,1,0.78,0,1,2026-05-29T05:31:09.609019,intern_level,synthetic,2.5,0.0171159870852291,0.0940438783030835,0.5,0.5673981173435796,0.7742392002484795,0.7369770430966303,1.70557614354976,1.791759469228055,0.6931471805599453,1.0986122886681098,0.6931471805599453,5.204006687076795,0.6931471805599453,0.6931471805599453,0.5766133643039938,0,"Repository: test-api-57
+Description: Todo list app practice
+Language: PHP (1 language total)
+Popularity: 5 stars, 1 forks
+Team: 2 contributors
+Activity: low or sporadic commits (0.8 commits/week), updated within the past month
+Infrastructure: no CI/CD setup, no tests found, no license
+Collaboration: 1 open issue, 1 closed PR
+Maturity: 1 release, 181-char README, 1 topic
+Age: established project (319 days old)",intern_level,0.92,synthetic ground truth,synthetic,0
+10441,user_73135,template-tool-41,user_73135/template-tool-41,Django REST framework scaffold,Python,46,15,6,"['topic0', 'topic1', 'topic2', 'topic3', 'topic4', 'topic5', 'topic6', 'topic7']",8,1,0,1,1534,193,5,12,4,8853,1,1,4,0.19,0,1,2026-05-29T05:31:09.628910,template_boilerplate,synthetic,2.875,0.0008670143376342,0.0782268563580145,1.2,5.771186436915785,0.8919850358784098,1.4763610755345289,2.480133628711594,3.8501476017100575,2.772588722239781,1.6094379124341005,1.6094379124341005,9.088624613292088,0.6931471805599453,1.791759469228055,0.173953307123438,5,"Repository: template-tool-41 (template repository)
+Description: Django REST framework scaffold
+Language: Python (1 language total)
+Popularity: 46 stars, 15 forks
+Team: 4 contributors
+Activity: low or sporadic commits (0.2 commits/week), last updated 193 days ago (possibly inactive)
+Infrastructure: has CI/CD workflows, no tests found, licensed
+Collaboration: 6 open issues, 4 closed PRs
+Maturity: 1 release, 8853-char README, 8 topics
+Age: long-running project (1534 days old)",template_boilerplate,0.92,synthetic ground truth,synthetic,5
+10083,user_10099,demo-project-8,user_10099/demo-project-8,Weather app using public APIs,Go,23,12,9,"['topic0', 'topic1', 'topic2', 'topic3']",4,1,0,0,441,73,6,12,3,1043,1,3,8,4.69,0,3,2026-05-29T05:31:09.610760,junior_level,synthetic,1.7692307692307692,0.0744444432627866,0.5442176500532211,1.0,2.3650793597163733,1.5645039704962955,1.3901285105175454,2.431539354386734,3.1780538303479458,2.5649493574615367,1.3862943611198906,2.19722457733622,6.950814768442584,1.3862943611198906,1.9459101490553128,1.7387102481382395,1,"Repository: demo-project-8
+Description: Weather app using public APIs
+Language: Go (3 languages total)
+Popularity: 23 stars, 12 forks
+Team: 3 contributors
+Activity: moderate commit activity (4.7 commits/week), updated within 6 months
+Infrastructure: has CI/CD workflows, no tests found, licensed
+Collaboration: 9 open issues, 8 closed PRs
+Maturity: 3 releases, 1043-char README, 4 topics
+Age: established project (441 days old)",junior_level,0.92,synthetic ground truth,synthetic,1
+10392,user_77106,engine-tool-42,user_77106/engine-tool-42,Developer toolchain for cloud deployments,PHP,53033,15206,997,"['topic0', 'topic1', 'topic2', 'topic3', 'topic4', 'topic5', 'topic6', 'topic7', 'topic8', 'topic9']",10,1,0,0,796,5,6054,16181,148,18436,1,201,4960,27.74,1,12,2026-05-29T05:31:09.626585,lead_architect,synthetic,3.4874071151443413,0.2439447214728479,186.93466632155776,0.2009675468655513,23.160803991004016,3.959180920683795,4.6229644303543465,5.500683574184858,10.878688496289003,9.62951112714046,5.003946305945459,8.509362612301048,9.82211479407039,5.308267697401205,8.708639655987193,3.358289880650879,4,"Repository: engine-tool-42
+Description: Developer toolchain for cloud deployments
+Language: PHP (12 languages total)
+Popularity: 53033 stars, 15206 forks
+Team: 148 contributors
+Activity: very high commit activity (27.7 commits/week), updated within the past week
+Infrastructure: has CI/CD workflows, includes automated tests, licensed
+Collaboration: 997 open issues, 4960 closed PRs
+Maturity: 201 releases, 18436-char README, 10 topics
+Age: long-running project (796 days old)",lead_architect,0.92,synthetic ground truth,synthetic,4
+10319,user_85675,scalable-web-44,user_85675/scalable-web-44,Security audit and compliance toolkit,JavaScript,648,86,75,"['topic0', 'topic1', 'topic2', 'topic3', 'topic4', 'topic5', 'topic6']",7,1,0,0,3642,25,154,102,24,3674,1,30,536,22.81,1,4,2026-05-29T05:31:09.623068,senior_level,synthetic,7.448275862068965,0.0438412959069497,4.415156471044839,0.1396648044692737,1.0087863808322937,3.231256990493372,3.0149035802306408,4.538828575417566,6.47543271670409,4.465908118654584,3.218875824868201,6.285998094508865,8.209308411646937,3.4339872044851463,5.043425116919247,3.170105660498771,3,"Repository: scalable-web-44
+Description: Security audit and compliance toolkit
+Language: JavaScript (4 languages total)
+Popularity: 648 stars, 86 forks
+Team: 24 contributors
+Activity: very high commit activity (22.8 commits/week), updated within the past month
+Infrastructure: has CI/CD workflows, includes automated tests, licensed
+Collaboration: 75 open issues, 536 closed PRs
+Maturity: 30 releases, 3674-char README, 7 topics
+Age: long-running project (3642 days old)",senior_level,0.92,synthetic ground truth,synthetic,3
+10067,user_16129,my-tool-67,user_16129/my-tool-67,Learning Flask basics,Go,5,2,0,['topic0'],1,0,0,0,196,663,1,1,2,400,0,1,2,1.94,0,2,2026-05-29T05:31:09.610068,intern_level,synthetic,1.6666666666666667,0.0692857118112245,0.3061224021241221,0.0,2.040816316118284,0.9052804740490884,0.7369770430966303,1.689645711760236,1.791759469228055,1.0986122886681098,1.0986122886681098,1.0986122886681098,5.993961427306569,0.6931471805599453,0.6931471805599453,1.0784095813505905,0,"Repository: my-tool-67
+Description: Learning Flask basics
+Language: Go (2 languages total)
+Popularity: 5 stars, 2 forks
+Team: 2 contributors
+Activity: moderate commit activity (1.9 commits/week), last updated 663 days ago (possibly inactive)
+Infrastructure: no CI/CD setup, no tests found, no license
+Collaboration: 0 open issues, 2 closed PRs
+Maturity: 1 release, 400-char README, 1 topic
+Age: established project (196 days old)",intern_level,0.92,synthetic ground truth,synthetic,0
+10357,user_72176,core-web-7,user_72176/core-web-7,Unified observability and monitoring platform,C++,12211,955,985,"['topic0', 'topic1', 'topic2', 'topic3', 'topic4', 'topic5', 'topic6', 'topic7', 'topic8', 'topic9', 'topic10', 'topic11', 'topic12', 'topic13', 'topic14', 'topic15', 'topic16']",17,1,0,0,3321,14,3417,1002,107,29904,1,207,453,54.59,1,7,2026-05-29T05:31:09.624880,lead_architect,synthetic,12.773012552301257,0.1150647392937509,4.092140884443172,2.1696035242290748,9.004516709122399,3.437708641937023,4.253198389507207,5.233324320364236,9.410174353854767,6.862757913051401,4.68213122712422,6.118097198041348,10.305780969478658,5.337538079701318,8.136810863675537,4.018003328965378,4,"Repository: core-web-7
+Description: Unified observability and monitoring platform
+Language: C++ (7 languages total)
+Popularity: 12211 stars, 955 forks
+Team: 107 contributors
+Activity: very high commit activity (54.6 commits/week), updated within the past month
+Infrastructure: has CI/CD workflows, includes automated tests, licensed
+Collaboration: 985 open issues, 453 closed PRs
+Maturity: 207 releases, 29904-char README, 17 topics
+Age: long-running project (3321 days old)",lead_architect,0.92,synthetic ground truth,synthetic,4
+10484,user_71747,old-bot-34,user_71747/old-bot-34,backup of my old project,Java,0,0,4,['topic0'],1,0,0,0,3351,700,0,0,1,146,0,0,0,0.49,0,1,2026-05-29T05:31:09.630859,low_value,synthetic,0.0,0.001023575050085,0.0,4.0,0.0435690838425636,0.363557027737489,0.1732867951399863,1.7967492874603814,0.0,0.0,0.6931471805599453,0.0,4.990432586778736,0.0,0.0,0.3987761199573678,6,"Repository: old-bot-34
+Description: backup of my old project
+Language: Java (1 language total)
+Popularity: 0 stars, 0 forks
+Team: 1 contributor
+Activity: low or sporadic commits (0.5 commits/week), last updated 700 days ago (possibly inactive)
+Infrastructure: no CI/CD setup, no tests found, no license
+Collaboration: 4 open issues, 0 closed PRs
+Maturity: 0 releases, 146-char README, 1 topic
+Age: long-running project (3351 days old)",low_value,0.92,synthetic ground truth,synthetic,6
+10048,user_73132,test-api-48,user_73132/test-api-48,Learning Flask basics,C#,8,4,0,[],0,0,0,0,124,753,1,4,2,325,0,0,3,1.48,0,1,2026-05-29T05:31:09.608180,intern_level,synthetic,1.6,0.0835483823803332,0.7258062760146106,0.0,2.620967720798648,0.9204728998004056,0.7140979876342715,1.517574691851466,2.19722457733622,1.6094379124341005,1.0986122886681098,1.3862943611198906,5.786897381366708,0.0,0.6931471805599453,0.9082585601768908,0,"Repository: test-api-48
+Description: Learning Flask basics
+Language: C# (1 language total)
+Popularity: 8 stars, 4 forks
+Team: 2 contributors
+Activity: moderate commit activity (1.5 commits/week), last updated 753 days ago (possibly inactive)
+Infrastructure: no CI/CD setup, no tests found, no license
+Collaboration: 0 open issues, 3 closed PRs
+Maturity: 0 releases, 325-char README, 0 topics
+Age: recently created (124 days old)",intern_level,0.92,synthetic ground truth,synthetic,0
+10227,user_66771,cool-project-52,user_66771/cool-project-52,Open-source library for data validation,Ruby,124,15,18,"['topic0', 'topic1', 'topic2', 'topic3']",4,1,0,0,847,18,22,14,11,4430,1,24,48,12.12,1,4,2026-05-29T05:31:09.618325,mid_level,synthetic,7.75,0.100165288428386,1.700118003537733,0.3673469387755102,5.230224314958413,2.335774046561549,2.4697207836376904,3.541942014201146,4.8283137373023015,2.772588722239781,2.4849066497880004,3.8918202981106265,8.39638057119949,3.218875824868201,3.1354942159291497,2.574137783515943,2,"Repository: cool-project-52
+Description: Open-source library for data validation
+Language: Ruby (4 languages total)
+Popularity: 124 stars, 15 forks
+Team: 11 contributors
+Activity: regular commit activity (12.1 commits/week), updated within the past month
+Infrastructure: has CI/CD workflows, includes automated tests, licensed
+Collaboration: 18 open issues, 48 closed PRs
+Maturity: 24 releases, 4430-char README, 4 topics
+Age: long-running project (847 days old)",mid_level,0.92,synthetic ground truth,synthetic,2
+10141,user_88580,demo-cli-66,user_88580/demo-cli-66,Task management app,PHP,24,1,11,"['topic0', 'topic1', 'topic2']",3,1,0,0,693,49,2,0,2,1669,0,0,11,1.74,0,1,2026-05-29T05:31:09.613411,junior_level,synthetic,12.0,0.0175757573982246,0.4761904555761707,0.9166666666666666,2.408369404894128,1.4369340644789133,0.9184282371406676,2.2301287942259886,3.218875824868201,0.6931471805599453,1.0986122886681098,2.4849066497880004,7.4205789054108,0.0,1.0986122886681098,1.007957920399979,1,"Repository: demo-cli-66
+Description: Task management app
+Language: PHP (1 language total)
+Popularity: 24 stars, 1 forks
+Team: 2 contributors
+Activity: moderate commit activity (1.7 commits/week), updated within 6 months
+Infrastructure: no CI/CD setup, no tests found, licensed
+Collaboration: 11 open issues, 11 closed PRs
+Maturity: 0 releases, 1669-char README, 3 topics
+Age: established project (693 days old)",junior_level,0.92,synthetic ground truth,synthetic,1
+10024,user_33953,homework-bot-24,user_33953/homework-bot-24,My first Python project,Ruby,4,0,2,['topic0'],1,0,0,0,296,209,0,0,2,99,0,1,1,1.36,0,1,2026-05-29T05:31:09.606861,intern_level,synthetic,4.0,0.0321621614015705,0.1013513410792559,1.0,0.3344594583295288,0.8189428628446795,0.7005127317378393,1.6906583721515456,1.6094379124341005,0.0,1.0986122886681098,0.6931471805599453,4.605170185988092,0.6931471805599453,0.0,0.8586616190375187,0,"Repository: homework-bot-24
+Description: My first Python project
+Language: Ruby (1 language total)
+Popularity: 4 stars, 0 forks
+Team: 2 contributors
+Activity: moderate commit activity (1.4 commits/week), last updated 209 days ago (possibly inactive)
+Infrastructure: no CI/CD setup, no tests found, no license
+Collaboration: 2 open issues, 1 closed PR
+Maturity: 1 release, 99-char README, 1 topic
+Age: established project (296 days old)",intern_level,0.92,synthetic ground truth,synthetic,0
+10444,user_71143,template-cli-44,user_71143/template-cli-44,Starter template for React + TypeScript,Java,39,4,6,"['topic0', 'topic1']",2,1,0,0,1831,625,8,4,4,792,0,0,13,0.29,1,3,2026-05-29T05:31:09.629049,template_boilerplate,synthetic,7.8,0.0011086837751169,0.2129983580611957,0.4285714285714285,0.4325505186059254,1.1287564641736862,1.3401353689313122,2.5828036530783924,3.688879454113936,1.6094379124341005,1.6094379124341005,2.6390573296152584,6.675823221634848,0.0,2.19722457733622,0.2546422183735807,5,"Repository: template-cli-44
+Description: Starter template for React + TypeScript
+Language: Java (3 languages total)
+Popularity: 39 stars, 4 forks
+Team: 4 contributors
+Activity: low or sporadic commits (0.3 commits/week), last updated 625 days ago (possibly inactive)
+Infrastructure: no CI/CD setup, includes automated tests, licensed
+Collaboration: 6 open issues, 13 closed PRs
+Maturity: 0 releases, 792-char README, 2 topics
+Age: long-running project (1831 days old)",template_boilerplate,0.92,synthetic ground truth,synthetic,5
+10114,user_9161,sample-bot-39,user_9161/sample-bot-39,Discord bot for my server,C++,11,5,2,['topic0'],1,0,0,0,87,272,2,5,2,2478,0,3,5,3.76,0,2,2026-05-29T05:31:09.612167,junior_level,synthetic,1.8333333333333333,0.3025287112907933,1.7241373365043666,0.3333333333333333,28.48275829330163,1.3449555414643806,0.9795785562926111,1.805731201132258,2.4849066497880004,1.791759469228055,1.0986122886681098,1.791759469228055,7.8156105320351905,1.3862943611198906,1.0986122886681098,1.5602476682433286,1,"Repository: sample-bot-39
+Description: Discord bot for my server
+Language: C++ (2 languages total)
+Popularity: 11 stars, 5 forks
+Team: 2 contributors
+Activity: moderate commit activity (3.8 commits/week), last updated 272 days ago (possibly inactive)
+Infrastructure: no CI/CD setup, no tests found, no license
+Collaboration: 2 open issues, 5 closed PRs
+Maturity: 3 releases, 2478-char README, 1 topic
+Age: recently created (87 days old)",junior_level,0.92,synthetic ground truth,synthetic,1
+10211,user_57450,clean-project-36,user_57450/clean-project-36,Data pipeline for processing CSV files,Rust,461,124,41,"['topic0', 'topic1', 'topic2', 'topic3']",4,1,0,0,464,66,68,107,9,4077,1,8,81,15.25,1,2,2026-05-29T05:31:09.616937,mid_level,synthetic,3.688,0.2300646517016108,5.237068626913667,0.5,8.786637912097763,2.5437279277484546,2.5323429380652924,3.2748425192860777,6.135564891081739,4.8283137373023015,2.302585092994046,4.406719247264253,8.3133619511344,2.19722457733622,4.23410650459726,2.7880929087757464,2,"Repository: clean-project-36
+Description: Data pipeline for processing CSV files
+Language: Rust (2 languages total)
+Popularity: 461 stars, 124 forks
+Team: 9 contributors
+Activity: regular commit activity (15.2 commits/week), updated within 6 months
+Infrastructure: has CI/CD workflows, includes automated tests, licensed
+Collaboration: 41 open issues, 81 closed PRs
+Maturity: 8 releases, 4077-char README, 4 topics
+Age: established project (464 days old)",mid_level,0.92,synthetic ground truth,synthetic,2
+10257,user_17540,cool-tool-82,user_17540/cool-tool-82,Open-source library for data validation,JavaScript,274,48,12,"['topic0', 'topic1', 'topic2', 'topic3']",4,1,0,0,196,41,63,42,2,2144,1,13,81,14.6,0,3,2026-05-29T05:31:09.619754,mid_level,synthetic,5.591836734693878,0.5214285528061231,12.397957286026946,0.1463414634146341,10.938775454394005,2.5370554654012967,1.9938658911426304,2.890449133290528,5.616771097666572,3.8918202981106265,1.0986122886681098,4.406719247264253,7.670894831362117,2.6390573296152584,4.158883083359672,2.747270914255491,2,"Repository: cool-tool-82
+Description: Open-source library for data validation
+Language: JavaScript (3 languages total)
+Popularity: 274 stars, 48 forks
+Team: 2 contributors
+Activity: regular commit activity (14.6 commits/week), updated within 6 months
+Infrastructure: has CI/CD workflows, no tests found, licensed
+Collaboration: 12 open issues, 81 closed PRs
+Maturity: 13 releases, 2144-char README, 4 topics
+Age: established project (196 days old)",mid_level,0.92,synthetic ground truth,synthetic,2
+10300,user_99886,scalable-bot-25,user_99886/scalable-bot-25,Cloud-native observability platform,C#,4157,891,41,"['topic0', 'topic1', 'topic2', 'topic3']",4,1,0,0,2680,29,577,954,8,4655,1,11,252,15.02,0,5,2026-05-29T05:31:09.622122,senior_level,synthetic,4.660313901345291,0.0392313431811121,2.820895490810872,0.1620553359683794,1.736940297859351,2.8857022313399745,2.788600035485847,3.881754399684351,8.332789468417959,6.79346613258001,2.19722457733622,5.53338948872752,8.445911989411274,2.4849066497880004,6.359573868672378,2.773837941640213,3,"Repository: scalable-bot-25
+Description: Cloud-native observability platform
+Language: C# (5 languages total)
+Popularity: 4157 stars, 891 forks
+Team: 8 contributors
+Activity: regular commit activity (15.0 commits/week), updated within the past month
+Infrastructure: has CI/CD workflows, no tests found, licensed
+Collaboration: 41 open issues, 252 closed PRs
+Maturity: 11 releases, 4655-char README, 4 topics
+Age: long-running project (2680 days old)",senior_level,0.92,synthetic ground truth,synthetic,3
+10468,user_18294,old-app-18,user_18294/old-app-18,forked to try later,C#,1,3,1,['topic0'],1,0,1,0,2988,699,0,3,1,52,0,0,0,0.96,0,1,2026-05-29T05:31:09.630146,low_value,synthetic,0.25,0.002248995978667,0.0,1.0,0.0174029451079642,0.4460304991633631,0.3119162312519754,1.773825627596774,0.6931471805599453,1.3862943611198906,0.6931471805599453,0.0,3.970291913552122,0.0,0.0,0.6729444732424258,6,"Repository: old-app-18 (forked repository)
+Description: forked to try later
+Language: C# (1 language total)
+Popularity: 1 stars, 3 forks
+Team: 1 contributor
+Activity: low or sporadic commits (1.0 commits/week), last updated 699 days ago (possibly inactive)
+Infrastructure: no CI/CD setup, no tests found, no license
+Collaboration: 1 open issue, 0 closed PRs
+Maturity: 0 releases, 52-char README, 1 topic
+Age: long-running project (2988 days old)",low_value,0.92,synthetic ground truth,synthetic,6
+10341,user_29266,enterprise-app-66,user_29266/enterprise-app-66,Multi-tenant SaaS backend with extensive docs,Go,3820,649,113,"['topic0', 'topic1', 'topic2', 'topic3', 'topic4', 'topic5', 'topic6', 'topic7', 'topic8', 'topic9']",10,1,0,0,3073,17,1051,708,25,3864,1,20,217,24.26,1,6,2026-05-29T05:31:09.624092,senior_level,synthetic,5.876923076923077,0.0552619588718406,2.118451004375681,0.518348623853211,1.2574031886568815,2.9803247414273657,3.320855989653264,4.256474619427581,8.2482674474469,6.476972362889683,3.258096538021482,5.384495062789089,8.259716961021523,3.044522437723423,6.958448393297656,3.229222116922345,3,"Repository: enterprise-app-66
+Description: Multi-tenant SaaS backend with extensive docs
+Language: Go (6 languages total)
+Popularity: 3820 stars, 649 forks
+Team: 25 contributors
+Activity: very high commit activity (24.3 commits/week), updated within the past month
+Infrastructure: has CI/CD workflows, includes automated tests, licensed
+Collaboration: 113 open issues, 217 closed PRs
+Maturity: 20 releases, 3864-char README, 10 topics
+Age: long-running project (3073 days old)",senior_level,0.92,synthetic ground truth,synthetic,3
+10186,user_68952,fast-app-11,user_68952/fast-app-11,Full-stack web application with CI/CD,Java,545,172,34,"['topic0', 'topic1', 'topic2', 'topic3', 'topic4', 'topic5', 'topic6']",7,0,0,0,899,16,109,167,5,2116,1,22,82,13.54,1,5,2026-05-29T05:31:09.615471,mid_level,synthetic,3.1502890173410405,0.1054282527942182,2.736373657295651,0.4096385542168674,2.3537263600069784,2.525155776924884,2.5787877948453675,3.3192857847170254,6.302618975744905,5.153291594497779,1.791759469228055,4.418840607796598,7.6577552711348655,3.1354942159291497,4.700480365792417,2.6769034721053733,2,"Repository: fast-app-11
+Description: Full-stack web application with CI/CD
+Language: Java (5 languages total)
+Popularity: 545 stars, 172 forks
+Team: 5 contributors
+Activity: regular commit activity (13.5 commits/week), updated within the past month
+Infrastructure: has CI/CD workflows, includes automated tests, no license
+Collaboration: 34 open issues, 82 closed PRs
+Maturity: 22 releases, 2116-char README, 7 topics
+Age: long-running project (899 days old)",mid_level,0.92,synthetic ground truth,synthetic,2
+10173,user_38828,mini-cli-98,user_38828/mini-cli-98,Basic e-commerce backend,PHP,12,5,9,"['topic0', 'topic1', 'topic2']",3,1,0,0,526,354,3,5,3,811,1,3,1,2.92,0,2,2026-05-29T05:31:09.614882,junior_level,synthetic,2.0,0.0388593150722144,0.0570342172794172,4.5,1.541825092125808,0.9388418844224072,1.2675076159402636,2.1659020083242124,2.5649493574615367,1.791759469228055,1.3862943611198906,0.6931471805599453,6.699500340161678,1.3862943611198906,1.3862943611198906,1.366091653802371,1,"Repository: mini-cli-98
+Description: Basic e-commerce backend
+Language: PHP (2 languages total)
+Popularity: 12 stars, 5 forks
+Team: 3 contributors
+Activity: moderate commit activity (2.9 commits/week), last updated 354 days ago (possibly inactive)
+Infrastructure: has CI/CD workflows, no tests found, licensed
+Collaboration: 9 open issues, 1 closed PR
+Maturity: 3 releases, 811-char README, 3 topics
+Age: established project (526 days old)",junior_level,0.92,synthetic ground truth,synthetic,1
+10217,user_78014,awesome-bot-42,user_78014/awesome-bot-42,Open-source library for data validation,Rust,423,124,8,"['topic0', 'topic1', 'topic2', 'topic3', 'topic4', 'topic5', 'topic6']",7,0,0,0,1186,45,50,99,2,882,1,18,16,3.23,1,2,2026-05-29T05:31:09.617380,mid_level,synthetic,3.384,0.0190640808318308,0.4047217435567856,0.4705882352941176,0.7436762219699188,1.6725911563182674,2.326265610088385,2.8460204157334923,6.049733455231958,4.8283137373023015,1.0986122886681098,2.833213344056216,6.78332520060396,2.9444389791664403,3.9318256327243257,1.4422019930581866,2,"Repository: awesome-bot-42
+Description: Open-source library for data validation
+Language: Rust (2 languages total)
+Popularity: 423 stars, 124 forks
+Team: 2 contributors
+Activity: moderate commit activity (3.2 commits/week), updated within 6 months
+Infrastructure: has CI/CD workflows, includes automated tests, no license
+Collaboration: 8 open issues, 16 closed PRs
+Maturity: 18 releases, 882-char README, 7 topics
+Age: long-running project (1186 days old)",mid_level,0.92,synthetic ground truth,synthetic,2
+10250,user_7868,awesome-tool-75,user_7868/awesome-tool-75,Data pipeline for processing CSV files,Go,448,32,29,"['topic0', 'topic1', 'topic2']",3,1,0,0,1061,39,93,36,10,4242,0,19,57,5.86,0,1,2026-05-29T05:31:09.619354,mid_level,synthetic,13.575757575757576,0.0386616397072276,1.6116870420823646,0.5,3.9981149820941417,2.1871494835113507,2.2702382367811422,3.554290715380052,6.107022887742255,3.49650756146648,2.3978952727983707,4.060443010546419,8.353025845202325,2.995732273553991,4.543294782270004,1.925707441737794,2,"Repository: awesome-tool-75
+Description: Data pipeline for processing CSV files
+Language: Go (1 language total)
+Popularity: 448 stars, 32 forks
+Team: 10 contributors
+Activity: regular commit activity (5.9 commits/week), updated within 6 months
+Infrastructure: no CI/CD setup, no tests found, licensed
+Collaboration: 29 open issues, 57 closed PRs
+Maturity: 19 releases, 4242-char README, 3 topics
+Age: long-running project (1061 days old)",mid_level,0.92,synthetic ground truth,synthetic,2
+10060,user_32285,learning-lib-60,user_32285/learning-lib-60,Calculator in Python,Rust,7,1,2,[],0,1,0,0,38,699,1,1,2,317,0,0,2,0.29,0,1,2026-05-29T05:31:09.609301,intern_level,synthetic,3.5,0.0534210427908605,1.5789461218846408,0.6666666666666666,8.342105043628814,0.6501235093031426,0.6905413805029946,1.3770878591265787,2.079441541679836,0.6931471805599453,1.0986122886681098,1.0986122886681098,5.762051382780177,0.0,0.6931471805599453,0.2546422183735807,0,"Repository: learning-lib-60
+Description: Calculator in Python
+Language: Rust (1 language total)
+Popularity: 7 stars, 1 forks
+Team: 2 contributors
+Activity: low or sporadic commits (0.3 commits/week), last updated 699 days ago (possibly inactive)
+Infrastructure: no CI/CD setup, no tests found, licensed
+Collaboration: 2 open issues, 2 closed PRs
+Maturity: 0 releases, 317-char README, 0 topics
+Age: recently created (38 days old)",intern_level,0.92,synthetic ground truth,synthetic,0
+10258,user_94343,cool-cli-83,user_94343/cool-cli-83,Full-stack web application with CI/CD,Ruby,433,167,41,"['topic0', 'topic1', 'topic2', 'topic3']",4,1,0,0,1346,48,45,197,7,5717,1,20,118,3.99,0,3,2026-05-29T05:31:09.620006,mid_level,synthetic,2.577380952380953,0.020750371363111,2.6300148002225527,0.3445378151260504,4.247399699667608,2.305265479725364,2.391147657898553,3.675716606869022,6.073044534100405,5.123963979403259,2.079441541679836,4.77912349311153,8.651374372882257,3.044522437723423,3.828641396489095,1.6074359097634274,2,"Repository: cool-cli-83
+Description: Full-stack web application with CI/CD
+Language: Ruby (3 languages total)
+Popularity: 433 stars, 167 forks
+Team: 7 contributors
+Activity: moderate commit activity (4.0 commits/week), updated within 6 months
+Infrastructure: has CI/CD workflows, no tests found, licensed
+Collaboration: 41 open issues, 118 closed PRs
+Maturity: 20 releases, 5717-char README, 4 topics
+Age: long-running project (1346 days old)",mid_level,0.92,synthetic ground truth,synthetic,2
+10418,user_20521,scaffold-web-18,user_20521/scaffold-web-18,Django REST framework scaffold,C#,74,13,25,"['topic0', 'topic1', 'topic2', 'topic3', 'topic4', 'topic5', 'topic6', 'topic7', 'topic8']",9,0,1,1,1586,681,11,13,3,4817,1,4,12,0.98,1,3,2026-05-29T05:31:09.627783,template_boilerplate,synthetic,5.285714285714286,0.0043253467652727,0.2269861243319144,1.9230769230769231,3.0372005024986124,1.222574395767451,1.8514868998523493,2.655371188364382,4.31748811353631,2.6390573296152584,1.3862943611198906,2.5649493574615367,8.480114183174816,1.6094379124341005,2.4849066497880004,0.6830968447064438,5,"Repository: scaffold-web-18 (forked repository) (template repository)
+Description: Django REST framework scaffold
+Language: C# (3 languages total)
+Popularity: 74 stars, 13 forks
+Team: 3 contributors
+Activity: low or sporadic commits (1.0 commits/week), last updated 681 days ago (possibly inactive)
+Infrastructure: has CI/CD workflows, includes automated tests, no license
+Collaboration: 25 open issues, 12 closed PRs
+Maturity: 4 releases, 4817-char README, 9 topics
+Age: long-running project (1586 days old)",template_boilerplate,0.92,synthetic ground truth,synthetic,5
+10309,user_60050,advanced-tool-34,user_60050/advanced-tool-34,High-performance message queue processor,Python,4343,490,64,"['topic0', 'topic1', 'topic2', 'topic3', 'topic4', 'topic5', 'topic6', 'topic7', 'topic8', 'topic9', 'topic10']",11,1,0,0,952,12,1167,455,6,12546,1,56,419,24.69,0,3,2026-05-29T05:31:09.622572,senior_level,synthetic,8.84521384928717,0.1815441163121756,13.203781096519505,0.1523809523809524,13.178571414728392,3.1832313714354807,2.968245399761765,4.025061713817062,8.37655086161377,6.19644412779452,1.9459101490553128,6.040254711277414,9.4372368721597,4.04305126783455,7.0630481633881725,3.2461018111217923,3,"Repository: advanced-tool-34
+Description: High-performance message queue processor
+Language: Python (3 languages total)
+Popularity: 4343 stars, 490 forks
+Team: 6 contributors
+Activity: very high commit activity (24.7 commits/week), updated within the past month
+Infrastructure: has CI/CD workflows, no tests found, licensed
+Collaboration: 64 open issues, 419 closed PRs
+Maturity: 56 releases, 12546-char README, 11 topics
+Age: long-running project (952 days old)",senior_level,0.92,synthetic ground truth,synthetic,3
+10447,user_15064,starter-cli-47,user_15064/starter-cli-47,Python package boilerplate,PHP,71,28,10,"['topic0', 'topic1']",2,1,0,0,503,787,21,30,2,6406,0,1,6,1.55,1,2,2026-05-29T05:31:09.629185,template_boilerplate,synthetic,2.4482758620689653,0.0215705762405685,0.3578528613606643,1.4285714285714286,12.735586455794063,1.0891272509069363,1.4339583730542302,2.196979791704353,4.276666119016055,3.367295829986474,1.0986122886681098,1.9459101490553128,8.765146421639022,0.6931471805599453,3.091042453358316,0.9360933591703348,5,"Repository: starter-cli-47
+Description: Python package boilerplate
+Language: PHP (2 languages total)
+Popularity: 71 stars, 28 forks
+Team: 2 contributors
+Activity: moderate commit activity (1.6 commits/week), last updated 787 days ago (possibly inactive)
+Infrastructure: no CI/CD setup, includes automated tests, licensed
+Collaboration: 10 open issues, 6 closed PRs
+Maturity: 1 release, 6406-char README, 2 topics
+Age: established project (503 days old)",template_boilerplate,0.92,synthetic ground truth,synthetic,5
+10325,user_91812,scalable-tool-50,user_91812/scalable-tool-50,Multi-tenant SaaS backend with extensive docs,TypeScript,5703,1440,195,"['topic0', 'topic1', 'topic2']",3,1,0,0,2415,34,729,1504,35,17059,1,57,438,21.93,1,5,2026-05-29T05:31:09.623333,senior_level,synthetic,3.9576682859125607,0.0635652172070573,5.440993721229892,0.4441913439635535,7.0637681130170735,3.157502828011366,3.634730778614817,4.632841931149287,8.648922962094131,7.273092595999522,3.58351893845611,6.084499413075172,9.74449182104567,4.060443010546419,6.593044534142437,3.132446096869813,3,"Repository: scalable-tool-50
+Description: Multi-tenant SaaS backend with extensive docs
+Language: TypeScript (5 languages total)
+Popularity: 5703 stars, 1440 forks
+Team: 35 contributors
+Activity: very high commit activity (21.9 commits/week), updated within 6 months
+Infrastructure: has CI/CD workflows, includes automated tests, licensed
+Collaboration: 195 open issues, 438 closed PRs
+Maturity: 57 releases, 17059-char README, 3 topics
+Age: long-running project (2415 days old)",senior_level,0.92,synthetic ground truth,synthetic,3
+10318,user_85343,production-web-43,user_85343/production-web-43,Database migration and management tool,C++,2672,155,124,"['topic0', 'topic1', 'topic2', 'topic3', 'topic4', 'topic5', 'topic6']",7,1,0,0,3180,8,749,125,14,14978,1,12,57,15.21,1,7,2026-05-29T05:31:09.623018,senior_level,synthetic,17.128205128205128,0.033481132001771,0.5377358439836242,2.1379310344827585,4.710062891600609,2.4520376803653474,3.0399462971225675,3.765081202226973,7.890956716138919,5.049856007249537,2.70805020110221,4.060443010546419,9.61440449916872,2.5649493574615367,6.620073206530356,2.785628335747585,3,"Repository: production-web-43
+Description: Database migration and management tool
+Language: C++ (7 languages total)
+Popularity: 2672 stars, 155 forks
+Team: 14 contributors
+Activity: regular commit activity (15.2 commits/week), updated within the past month
+Infrastructure: has CI/CD workflows, includes automated tests, licensed
+Collaboration: 124 open issues, 57 closed PRs
+Maturity: 12 releases, 14978-char README, 7 topics
+Age: long-running project (3180 days old)",senior_level,0.92,synthetic ground truth,synthetic,3
+10126,user_30389,sample-app-51,user_30389/sample-app-51,Simple CRUD application,Rust,27,2,11,[],0,0,0,0,788,303,3,2,2,764,1,0,7,5.62,0,3,2026-05-29T05:31:09.612720,junior_level,synthetic,9.0,0.0499238574245342,0.2664974517830919,1.375,0.9695431459777372,1.5233025450605322,1.1410939742020685,2.0246946446721696,3.332204510175204,1.0986122886681098,1.0986122886681098,2.079441541679836,6.639875833826536,0.0,1.3862943611198906,1.890095369948917,1,"Repository: sample-app-51
+Description: Simple CRUD application
+Language: Rust (3 languages total)
+Popularity: 27 stars, 2 forks
+Team: 2 contributors
+Activity: regular commit activity (5.6 commits/week), last updated 303 days ago (possibly inactive)
+Infrastructure: has CI/CD workflows, no tests found, no license
+Collaboration: 11 open issues, 7 closed PRs
+Maturity: 0 releases, 764-char README, 0 topics
+Age: long-running project (788 days old)",junior_level,0.92,synthetic ground truth,synthetic,1
+10058,user_33271,practice-api-58,user_33271/practice-api-58,My first Python project,PHP,3,1,3,['topic0'],1,0,0,0,300,415,0,1,1,74,1,1,0,0.43,0,1,2026-05-29T05:31:09.609116,intern_level,synthetic,1.5,0.0100333330992222,0.0,3.0,0.2466666658444444,0.4147716755334957,0.7545177444479563,1.4533382842017506,1.3862943611198906,0.6931471805599453,0.6931471805599453,0.0,4.31748811353631,0.6931471805599453,0.0,0.3576744442718159,0,"Repository: practice-api-58
+Description: My first Python project
+Language: PHP (1 language total)
+Popularity: 3 stars, 1 forks
+Team: 1 contributor
+Activity: low or sporadic commits (0.4 commits/week), last updated 415 days ago (possibly inactive)
+Infrastructure: has CI/CD workflows, no tests found, no license
+Collaboration: 3 open issues, 0 closed PRs
+Maturity: 1 release, 74-char README, 1 topic
+Age: established project (300 days old)",intern_level,0.92,synthetic ground truth,synthetic,0
+10208,user_98880,better-service-33,user_98880/better-service-33,CLI tool for automating deployments,Java,207,78,21,"['topic0', 'topic1', 'topic2', 'topic3', 'topic4']",5,1,0,0,162,12,25,86,8,3324,1,10,43,15.76,1,4,2026-05-29T05:31:09.616764,mid_level,synthetic,2.6202531645569622,0.6809876248955964,7.962961488340464,0.4772727272727273,20.518518391861,2.3782798334073787,2.376498051194074,2.954473165838734,5.337538079701318,4.3694478524670215,2.19722457733622,3.784189633918261,8.109224953089955,2.3978952727983707,3.258096538021482,2.818995095053937,2,"Repository: better-service-33
+Description: CLI tool for automating deployments
+Language: Java (4 languages total)
+Popularity: 207 stars, 78 forks
+Team: 8 contributors
+Activity: regular commit activity (15.8 commits/week), updated within the past month
+Infrastructure: has CI/CD workflows, includes automated tests, licensed
+Collaboration: 21 open issues, 43 closed PRs
+Maturity: 10 releases, 3324-char README, 5 topics
+Age: recently created (162 days old)",mid_level,0.92,synthetic ground truth,synthetic,2
+10156,user_73529,mini-app-81,user_73529/mini-app-81,Weather app using public APIs,Python,13,9,2,[],0,0,0,0,742,297,3,8,1,1348,0,1,2,2.11,1,1,2026-05-29T05:31:09.614097,junior_level,synthetic,1.3,0.0199056601895692,0.0808625304233478,0.6666666666666666,1.8167115878480973,1.0037497686718226,1.0050703381470298,1.8537778979291493,2.6390573296152584,2.302585092994046,0.6931471805599453,1.0986122886681098,7.207118856207756,0.6931471805599453,1.3862943611198906,1.1346227261911428,1,"Repository: mini-app-81
+Description: Weather app using public APIs
+Language: Python (1 language total)
+Popularity: 13 stars, 9 forks
+Team: 1 contributor
+Activity: moderate commit activity (2.1 commits/week), last updated 297 days ago (possibly inactive)
+Infrastructure: no CI/CD setup, includes automated tests, no license
+Collaboration: 2 open issues, 2 closed PRs
+Maturity: 1 release, 1348-char README, 0 topics
+Age: long-running project (742 days old)",junior_level,0.92,synthetic ground truth,synthetic,1
+10025,user_85012,my-web-25,user_85012/my-web-25,Personal learning project,Go,7,3,3,[],0,0,0,0,39,720,1,3,1,379,0,1,2,2.61,0,1,2026-05-29T05:31:09.606906,intern_level,synthetic,1.75,0.4684614543787133,1.5384603550304965,1.0,9.717948468770553,0.9541609012470136,0.6931471805599453,1.269414579808385,2.079441541679836,1.3862943611198906,0.6931471805599453,1.0986122886681098,5.940171252720432,0.6931471805599453,0.6931471805599453,1.2837077723447896,0,"Repository: my-web-25
+Description: Personal learning project
+Language: Go (1 language total)
+Popularity: 7 stars, 3 forks
+Team: 1 contributor
+Activity: moderate commit activity (2.6 commits/week), last updated 720 days ago (possibly inactive)
+Infrastructure: no CI/CD setup, no tests found, no license
+Collaboration: 3 open issues, 2 closed PRs
+Maturity: 1 release, 379-char README, 0 topics
+Age: recently created (39 days old)",intern_level,0.92,synthetic ground truth,synthetic,0
+10066,user_88538,homework-web-66,user_88538/homework-web-66,Calculator in Python,Python,4,1,3,['topic0'],1,0,0,0,23,706,0,0,2,33,0,1,0,0.44,0,1,2026-05-29T05:31:09.610025,intern_level,synthetic,2.0,0.1339130027221296,0.0,3.0,1.4347825463138022,0.351979333184511,0.7005127317378393,1.0488932743486057,1.6094379124341005,0.6931471805599453,1.0986122886681098,0.0,3.5263605246161616,0.6931471805599453,0.0,0.3646431135879093,0,"Repository: homework-web-66
+Description: Calculator in Python
+Language: Python (1 language total)
+Popularity: 4 stars, 1 forks
+Team: 2 contributors
+Activity: low or sporadic commits (0.4 commits/week), last updated 706 days ago (possibly inactive)
+Infrastructure: no CI/CD setup, no tests found, no license
+Collaboration: 3 open issues, 0 closed PRs
+Maturity: 1 release, 33-char README, 1 topic
+Age: brand-new project (23 days old)",intern_level,0.92,synthetic ground truth,synthetic,0
+10072,user_73309,learning-tool-72,user_73309/learning-tool-72,Simple web scraper practice,C#,0,4,1,['topic0'],1,0,0,0,143,717,0,4,2,518,0,0,2,2.75,0,2,2026-05-29T05:31:09.610279,intern_level,synthetic,0.0,0.1346153780258206,0.4195803315565738,0.3333333333333333,3.622377597046311,0.9662442178593428,0.2746530721670274,1.4883381898158494,0.0,1.6094379124341005,1.0986122886681098,1.0986122886681098,6.251903883165888,0.0,0.0,1.3217558399823195,0,"Repository: learning-tool-72
+Description: Simple web scraper practice
+Language: C# (2 languages total)
+Popularity: 0 stars, 4 forks
+Team: 2 contributors
+Activity: moderate commit activity (2.8 commits/week), last updated 717 days ago (possibly inactive)
+Infrastructure: no CI/CD setup, no tests found, no license
+Collaboration: 1 open issue, 2 closed PRs
+Maturity: 0 releases, 518-char README, 1 topic
+Age: recently created (143 days old)",intern_level,0.92,synthetic ground truth,synthetic,0
