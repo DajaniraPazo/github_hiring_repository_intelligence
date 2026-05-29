@@ -16,6 +16,13 @@ seaborn>=0.12.0
 # App
 streamlit>=1.28.0
 
+# HuggingFace ecosystem (opcional)
+datasets>=2.14.0
+accelerate>=0.24.0
+
+# Weak supervision (opcional)
+snorkel>=0.9.9
+
 # Utilities
 python-dotenv>=1.0.0
 tqdm>=4.66.0
