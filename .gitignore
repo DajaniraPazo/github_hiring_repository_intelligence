@@ -222,3 +222,4 @@ models/trained_models/bert_classifier/
 models/trained_models/*.bin
 models/trained_models/*.safetensors
 models/trained_models/*.pkl
+.claude/
